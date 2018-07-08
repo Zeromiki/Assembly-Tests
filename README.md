@@ -1,3 +1,5 @@
 # Assembly-Tests
-Homeworks
-Tests and learning stuff
+These tasks were given as Homework.
+
+- Short Factorial calculation with assembly.
+- HelloWorld assembly.
